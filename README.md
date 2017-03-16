@@ -3,6 +3,6 @@
 Link to public site: https://xzeasy.github.io/Modified-Leaflet-Highcharts/
 
 Leaflet Map
-<iframe src="https://xzeasy.github.io/leaflet-map-simple" width="900" height=350></iframe>
+<iframe src="https://xzeasy.github.io/leaflet-map-simple" width="900" height="350"></iframe>
 
 Highcharts
